@@ -4,6 +4,7 @@
   "description": "A seedable random number generator.",
   "version": "0.0.1",
   "homepage": "https://github.com/BusyRich/easyseed",
+  "main": "./easyseed",
   "repository": {
     "type": "git",
     "url": "git@github.com:BusyRich/easyseed.git"
@@ -14,5 +15,10 @@
   "scripts": {
     "test": "node test.js"
   },
-  "main": "./easyseed"
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "https://github.com/BusyRich/easyseed/blob/master/LICENSE"
+    }
+  ]
 }
