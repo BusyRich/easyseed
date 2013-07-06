@@ -1,0 +1,18 @@
+{
+  "author": "Richard Key <rich@busyrich.com>",
+  "name": "easyseed",
+  "description": "A seedable random number generator.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/BusyRich/easyseed",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BusyRich/easyseed.git"
+  },
+  "dependencies": {
+    "request": "2.22.x"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "main": "./easyseed"
+}
